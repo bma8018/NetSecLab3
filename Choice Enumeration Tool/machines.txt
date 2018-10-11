@@ -1,2 +1,1 @@
-machinename01
-machinename02
+examplepc.rit.edu
