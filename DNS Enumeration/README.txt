@@ -2,4 +2,4 @@ DNS_enumeration.bat is a script that takes the input from file 'input_hostnames.
 
 The input file, 'input_hostnames.txt', needs each hostname to be on its own individual line.
 
-The output file, 'Addresses.txt', will detail each hostname speciied to its IP address, or will state a hostname followed by a '%b', indicating that the IP address was not found to that hostname. 
+The output file, 'Addresses.txt', will detail each hostname, first to its DNS server, then to its IP address.
