@@ -1,2 +1,4 @@
 examplepc.rit.edu - 129.21.3.17 
 examplepc.rit.edu - 54.67.99.40 
+onlinesolutions.com - 129.21.3.17 
+onlinesolutions.com - 67.227.157.22 
